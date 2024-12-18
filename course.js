@@ -37,14 +37,14 @@
     
 // }
 
-let Me = 19
-if (Me>=18){
-    console.log("Nikah confirm");
+// let Me = 19
+// if (Me>=18){
+//     console.log("Nikah confirm");
     
-}else {
-    console.log("thodi dair oe intizr karo");
+// }else {
+//     console.log("thodi dair oe intizr karo");
     
-}
+// }
 
 
 
