@@ -238,18 +238,78 @@
 //  }
 
 //switch
-let months = 1;
-let monthsname;
+// let months = 1;
+// let monthsname;
 
-switch (months) {
-  case 1:
-    monthsname = "january";
-    break;
+// switch (months) {
+//   case 1:
+//     monthsname = "january";
+//     break;
 
-  case 2:
-    monthsname = "february";
-    break;
+// //   case 2:
+// //     monthsname = "february";
+// //     break;
 
-    case 3:
+// //     case 3:
+// // }
+// // console.log(monthsname);
+
+
+
+
+// // let fruits = "apple"
+// // switch (fruits)
+// // {
+// //   case "apple":
+// //     console.log("This is an apple");
+    
+// //     case 2 :
+// //       "apple"
+
+// // }
+
+
+// let grade = "p"
+// let result;
+// switch (grade){
+//   case "A":
+//     result = "Grade is excellent"
+//     break;
+//     case "B" :
+//       result = "grade is average"
+//       break;
+// default :
+// result = "result not found"
+
+// }console.log(result);
+
+
+
+
+// let colors = "red"
+// let color;
+// switch (colors)
+// {
+//   case "green" :
+//     color = "green is for nature"
+//     break;
+//     case "red" :
+//       color = "red is for danger"
+//       break ;
+
+// }
+// console.log(color);
+let sameer = 19
+if (sameer>=100){
+  console.log("Sameer is 20 years old"); 
+} 
+else if (sameer==19){
+  console.log("Sameer is 19 years old");
 }
-console.log(monthsname);
+else if (sameer==18){
+  console.log("Sameer is 18 years old");
+}
+else {
+  console.log("404 error");
+  
+}
