@@ -121,12 +121,12 @@
 // // let c = a / b
 // // console.log(c);
 
-// //modulus
-// // gives remainder of an integer division
-// // let a = 24
-// // let b = 10
-// // let c = a % b
-// // console.log(c);
+// modulus
+// gives remainder of an integer division
+// let a = 24
+// let b = 10
+// let c = a % b
+// console.log(c);
 
 // // exponention
 // // let a = 20
@@ -254,20 +254,16 @@
 // // }
 // // console.log(monthsname);
 
-
-
-
 // // let fruits = "apple"
 // // switch (fruits)
 // // {
 // //   case "apple":
 // //     console.log("This is an apple");
-    
+
 // //     case 2 :
 // //       "apple"
 
 // // }
-
 
 // let grade = "p"
 // let result;
@@ -283,9 +279,6 @@
 
 // }console.log(result);
 
-
-
-
 // let colors = "red"
 // let color;
 // switch (colors)
@@ -299,17 +292,79 @@
 
 // }
 // console.log(color);
-let sameer = 19
-if (sameer>=100){
-  console.log("Sameer is 20 years old"); 
-} 
-else if (sameer==19){
-  console.log("Sameer is 19 years old");
-}
-else if (sameer==18){
-  console.log("Sameer is 18 years old");
-}
-else {
-  console.log("404 error");
-  
-}
+// let sameer = 19
+// if (sameer>=100){
+//   console.log("Sameer is 100 years old");
+// }
+// else if (sameer==19){
+//   console.log("Sameer is 19 years old");
+// }
+// else if (sameer==18){
+//   console.log("Sameer is 18 years old");
+// }
+// else {
+//   console.log("404 error");
+// }
+
+// let a = 10
+// let b = 10
+// let c = a != b
+// console.log(c);
+// switch (expression) {
+//     case value1:
+//         // code block 1;
+//         break;
+//     case value2:
+//          // code block 2;
+//         break;
+//     default:
+//        // default code block;
+// }
+
+// let Class = 2;
+// let students;
+// switch (Class) {
+//   case 1:
+//     students = "There is only one student in class 1";
+//     break;
+//   default:
+//     students = "invalid info";
+//     break;
+//   case 2:
+//     students = "there are only 2 students in class 2";
+//     break;
+// }
+// console.log(students);
+
+// let month = 10;
+// let monthsname;
+// switch (month) {
+//     default :
+//    monthsname = "sorry no data"
+//     break;
+//   case 1:
+//     monthsname = "januray";
+//     break;
+//   case 2:
+//     monthsname = "february";
+//     break;
+//   case 3:
+//     monthsname = "march";
+//     break;
+//   case 4:
+//     monthsname = "aprail";
+//     break;
+// }
+// console.log(monthsname);
+
+// let age = 22
+// if (age < 17) {
+//     console.log("you are child");
+// } else if ( age > 23){
+//     console.log("you r teenager");
+// } else {
+//     console.log("you are adult");
+    
+// }
+
+
